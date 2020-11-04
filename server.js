@@ -24,7 +24,7 @@ app.listen(PORT, function () {
 	console.log("Server listening on: http://localhost:" + PORT);
 });
 
-// - Data parsing;
+// - Express data parsing;
 app.use(express.static(path.join(__dirname, "public")));
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
