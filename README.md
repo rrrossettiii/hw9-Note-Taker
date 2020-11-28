@@ -3,7 +3,7 @@
 hw9-Note-Taker
 
 ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/rrrossettiii/hw9-Note-Taker?style=flat&logo=appveyor)
-View live app [here.](https://note-taker-9.herokuapp.com/notes)
+View live app [here.](https://note-taker-9.herokuapp.com/)
 &nbsp;
 
 &nbsp;
